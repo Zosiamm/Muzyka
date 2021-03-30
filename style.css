@@ -1,0 +1,129 @@
+body {
+    background-color: rgb(71, 69, 69);
+}
+
+.head{
+    background-color: #1f3008;
+    width: 100%;
+    height: 80px;
+    padding: 5px;
+    margin:auto;
+}
+
+.logo{
+    width: 280px;
+    height: 80px;
+    margin:auto;
+    color: #e7c08d;
+    font-size: 55px;
+    text-align: center;
+}
+
+.nap{
+    float: left;
+}
+
+a{
+    text-decoration: none;
+    color: #eecccc;
+    display: block;
+    margin: none;
+    padding: 0;
+    height: 94px;
+}
+
+.cont{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    width: 100%;
+}
+
+.nav{
+    width: 50%;
+    height: 470px;
+    background-color: #525050;
+    margin-top: 50px;
+    float: left;
+}
+
+.nav0{
+    height: 94px;
+    background-color: #df8a8a;
+    text-align: center;
+    font-size: 40px;
+    margin: none;
+    padding: 0;
+}
+
+.nav0 :hover{
+    background-color: #ff6565;
+}
+.nav1{
+    height: 94px;
+    background-color: #c29722;
+    text-align: center;
+    font-size: 40px;
+    margin: none;
+    padding: 0;
+}
+
+.nav1 :hover{
+    background-color: #998d21;
+}
+.nav2{
+    height: 94px;
+    background-color: #28ad0d;
+    text-align: center;
+    font-size: 40px;
+    margin: none;
+    padding: 0;
+}
+
+.nav2 :hover{
+    background-color: #0d6b1d;
+}
+.nav3{
+    height: 94px;
+    background-color: #228799;
+    text-align: center;
+    font-size: 40px;
+    margin: none;
+    padding: 0;
+}
+
+.nav3 :hover{
+    background-color: #19595e;
+}
+.nav4{
+    height: 94px;
+    background-color: #6c30ce;
+    text-align: center;
+    font-size: 40px;
+    margin: none;
+    padding: 0;
+}
+
+.nav4 :hover{
+    background-color: #713580;
+}
+
+.content{
+    width: 50%;
+    height: 470px;
+    background-color: #2c2a2a;
+    margin-top: 50px;
+    float: left;
+    color: #eecccc;
+    font-size: 18px;
+    text-align: center;
+}
+
+.footer{
+    width: 100%;
+    height: 25px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #131313;
+    margin: none;
+}
